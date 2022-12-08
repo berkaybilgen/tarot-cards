@@ -13,3 +13,7 @@ ul > li {
   margin: 1em;
   cursor: pointer;
 }
+
+ul > li.selected {
+  border-bottom: 3px solid #263159;
+}
