@@ -1,6 +1,6 @@
 # Listing & Filtering Tarot Cards
 
-This project was developed by React JS.
+This project was developed with React JS.
 
 ## Demo
 
