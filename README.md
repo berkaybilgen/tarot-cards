@@ -1,4 +1,4 @@
-# Listing Tarot Cards
+# Listing & Filtering Tarot Cards
 
 This project was developed React JS.
 
