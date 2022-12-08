@@ -24,7 +24,7 @@ const CardList = (props) => {
       <Container>
         <Row>
           {cards.map((item) => (
-            <Col md="3" lg="2">
+            <Col sm="6" md="3" lg="2">
               <Card key={item.cardNo} no={item.cardNo} name={item.name} />
             </Col>
           ))}
