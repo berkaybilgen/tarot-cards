@@ -1,0 +1,392 @@
+[
+  {
+    "cardNo": 0,
+    "category": 1,
+    "name": "The Fool"
+  },
+  {
+    "cardNo": 1,
+    "category": 1,
+    "name": "The Magician"
+  },
+  {
+    "cardNo": 2,
+    "category": 1,
+    "name": "The High Priestess"
+  },
+  {
+    "cardNo": 3,
+    "category": 1,
+    "name": "The Empress"
+  },
+  {
+    "cardNo": 4,
+    "category": 1,
+    "name": "The Emperor"
+  },
+  {
+    "cardNo": 5,
+    "category": 1,
+    "name": "The Hierophant"
+  },
+  {
+    "cardNo": 6,
+    "category": 1,
+    "name": "The Lovers"
+  },
+  {
+    "cardNo": 7,
+    "category": 1,
+    "name": "The Chariot"
+  },
+  {
+    "cardNo": 8,
+    "category": 1,
+    "name": "Strength"
+  },
+  {
+    "cardNo": 9,
+    "category": 1,
+    "name": "The Hermit"
+  },
+  {
+    "cardNo": 10,
+    "category": 1,
+    "name": "Wheel of Fortune"
+  },
+  {
+    "cardNo": 11,
+    "category": 1,
+    "name": "Justice"
+  },
+  {
+    "cardNo": 12,
+    "category": 1,
+    "name": "The Hanged Man"
+  },
+  {
+    "cardNo": 13,
+    "category": 1,
+    "name": "Death"
+  },
+  {
+    "cardNo": 14,
+    "category": 1,
+    "name": "Temperance"
+  },
+  {
+    "cardNo": 15,
+    "category": 1,
+    "name": "The Devil"
+  },
+  {
+    "cardNo": 16,
+    "category": 1,
+    "name": "The Tower"
+  },
+  {
+    "cardNo": 17,
+    "category": 1,
+    "name": "The Star"
+  },
+  {
+    "cardNo": 18,
+    "category": 1,
+    "name": "The Moon"
+  },
+  {
+    "cardNo": 19,
+    "category": 1,
+    "name": "The Sun"
+  },
+  {
+    "cardNo": 20,
+    "category": 1,
+    "name": "Judgement"
+  },
+  {
+    "cardNo": 21,
+    "category": 1,
+    "name": "The World"
+  },
+  {
+    "cardNo": 22,
+    "category": 2,
+    "name": "Ace of Wands"
+  },
+  {
+    "cardNo": 23,
+    "category": 2,
+    "name": "Two of Wands"
+  },
+  {
+    "cardNo": 24,
+    "category": 2,
+    "name": "Three of Wands"
+  },
+  {
+    "cardNo": 25,
+    "category": 2,
+    "name": "Four of Wands"
+  },
+  {
+    "cardNo": 26,
+    "category": 2,
+    "name": "Five of Wands"
+  },
+  {
+    "cardNo": 27,
+    "category": 2,
+    "name": "Six of Wands"
+  },
+  {
+    "cardNo": 28,
+    "category": 2,
+    "name": "Seven of Wands"
+  },
+  {
+    "cardNo": 29,
+    "category": 2,
+    "name": "Eight of Wands"
+  },
+  {
+    "cardNo": 30,
+    "category": 2,
+    "name": "Nine of Wands"
+  },
+  {
+    "cardNo": 31,
+    "category": 2,
+    "name": "Ten of Wands"
+  },
+  {
+    "cardNo": 32,
+    "category": 2,
+    "name": "Page of Wands"
+  },
+  {
+    "cardNo": 33,
+    "category": 2,
+    "name": "Knight of Wands"
+  },
+  {
+    "cardNo": 34,
+    "category": 2,
+    "name": "Queen of Wands"
+  },
+  {
+    "cardNo": 35,
+    "category": 2,
+    "name": "King of Wands"
+  },
+  {
+    "cardNo": 36,
+    "category": 3,
+    "name": "Ace of Cups"
+  },
+  {
+    "cardNo": 37,
+    "category": 3,
+    "name": "Two of Cups"
+  },
+  {
+    "cardNo": 38,
+    "category": 3,
+    "name": "Three of Cups"
+  },
+  {
+    "cardNo": 39,
+    "category": 3,
+    "name": "Four of Cups"
+  },
+  {
+    "cardNo": 40,
+    "category": 3,
+    "name": "Five of Cups"
+  },
+  {
+    "cardNo": 41,
+    "category": 3,
+    "name": "Six of Cups"
+  },
+  {
+    "cardNo": 42,
+    "category": 3,
+    "name": "Seven of Cups"
+  },
+  {
+    "cardNo": 43,
+    "category": 3,
+    "name": "Eight of Cups"
+  },
+  {
+    "cardNo": 44,
+    "category": 3,
+    "name": "Nine of Cups"
+  },
+  {
+    "cardNo": 45,
+    "category": 3,
+    "name": "Ten of Cups"
+  },
+  {
+    "cardNo": 46,
+    "category": 3,
+    "name": "Page of Cups"
+  },
+  {
+    "cardNo": 47,
+    "category": 3,
+    "name": "Knight of Cups"
+  },
+  {
+    "cardNo": 48,
+    "category": 3,
+    "name": "Queen of Cups"
+  },
+  {
+    "cardNo": 49,
+    "category": 3,
+    "name": "King of Cups"
+  },
+  {
+    "cardNo": 50,
+    "category": 4,
+    "name": "Ace of Swords"
+  },
+  {
+    "cardNo": 51,
+    "category": 4,
+    "name": "Two of Swords"
+  },
+  {
+    "cardNo": 52,
+    "category": 4,
+    "name": "Three of Swords"
+  },
+  {
+    "cardNo": 53,
+    "category": 4,
+    "name": "Four of Swords"
+  },
+  {
+    "cardNo": 54,
+    "category": 4,
+    "name": "Five of Swords"
+  },
+  {
+    "cardNo": 55,
+    "category": 4,
+    "name": "Six of Swords"
+  },
+  {
+    "cardNo": 56,
+    "category": 4,
+    "name": "Seven of Swords"
+  },
+  {
+    "cardNo": 57,
+    "category": 4,
+    "name": "Eight of Swords"
+  },
+  {
+    "cardNo": 58,
+    "category": 4,
+    "name": "Nine of Swords"
+  },
+  {
+    "cardNo": 59,
+    "category": 4,
+    "name": "Ten of Swords"
+  },
+  {
+    "cardNo": 60,
+    "category": 4,
+    "name": "Page of Swords"
+  },
+  {
+    "cardNo": 61,
+    "category": 4,
+    "name": "Knight of Swords"
+  },
+  {
+    "cardNo": 62,
+    "category": 4,
+    "name": "Queen of Swords"
+  },
+  {
+    "cardNo": 63,
+    "category": 4,
+    "name": "King of Swords"
+  },
+  {
+    "cardNo": 64,
+    "category": 5,
+    "name": "Ace of Pentacles"
+  },
+  {
+    "cardNo": 65,
+    "category": 5,
+    "name": "Two of Pentacles"
+  },
+  {
+    "cardNo": 66,
+    "category": 5,
+    "name": "Three of Pentacles"
+  },
+  {
+    "cardNo": 67,
+    "category": 5,
+    "name": "Four of Pentacles"
+  },
+  {
+    "cardNo": 68,
+    "category": 5,
+    "name": "Five of Pentacles"
+  },
+  {
+    "cardNo": 69,
+    "category": 5,
+    "name": "Six of Pentacles"
+  },
+  {
+    "cardNo": 70,
+    "category": 5,
+    "name": "Seven of Pentacles"
+  },
+  {
+    "cardNo": 71,
+    "category": 5,
+    "name": "Eight of Pentacles"
+  },
+  {
+    "cardNo": 72,
+    "category": 5,
+    "name": "Nine of Pentacles"
+  },
+  {
+    "cardNo": 73,
+    "category": 5,
+    "name": "Ten of Pentacles"
+  },
+  {
+    "cardNo": 74,
+    "category": 5,
+    "name": "Page of Pentacles"
+  },
+  {
+    "cardNo": 75,
+    "category": 5,
+    "name": "Knight of Pentacles"
+  },
+  {
+    "cardNo": 76,
+    "category": 5,
+    "name": "Queen of Pentacles"
+  },
+  {
+    "cardNo": 77,
+    "category": 5,
+    "name": "King of Pentacles"
+  }
+]

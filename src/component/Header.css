@@ -1,0 +1,15 @@
+header {
+  width: 100%;
+  display: flex;
+}
+
+ul {
+  margin: 0 auto !important;
+}
+
+ul > li {
+  list-style-type: none;
+  float: left;
+  margin: 1em;
+  cursor: pointer;
+}
