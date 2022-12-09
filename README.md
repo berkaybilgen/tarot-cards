@@ -8,7 +8,14 @@ https://berkaybilgen.github.io/tarot-cards/
 
 ## About the project
 
-![- List item](https://res.cloudinary.com/dlwkimxcx/image/upload/v1670528698/tarot-cards-1_vrliio.png)
-
  - Reading the cards from a json file.
+ 
+ ![- List item](https://res.cloudinary.com/dlwkimxcx/image/upload/v1670589367/tarot-cards_j08ofy.png)
+ 
  - Filtering cards by selected item of menu.
+ 
+ ![- List item](https://res.cloudinary.com/dlwkimxcx/image/upload/v1670589287/tarot-cards-2_qxwhdx.png)
+
+ - Search in cards
+ 
+ ![- List item](https://res.cloudinary.com/dlwkimxcx/image/upload/v1670589284/tarot-cards-3_fxtag1.png)
