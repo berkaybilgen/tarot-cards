@@ -34,6 +34,7 @@ const CardList = (props) => {
 
   return (
     <div id="card-list">
+      <h1>{cards.length} cards</h1>
       <Container>
         <Row>
           {cards.map((item) => (

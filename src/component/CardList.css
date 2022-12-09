@@ -1,4 +1,4 @@
-#card-list {
-  background: #263159;
-  display: flow-root;
+#card-list h1 {
+  text-align: center;
+  margin: 1em auto;
 }

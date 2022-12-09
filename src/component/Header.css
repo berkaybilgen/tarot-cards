@@ -1,6 +1,7 @@
 header {
   width: 100%;
   display: flex;
+  background-color: #263159;
 }
 
 ul {
@@ -13,10 +14,11 @@ ul > li {
   float: left;
   margin: 1em;
   cursor: pointer;
+  color: #fff;
 }
 
 ul > li.selected {
-  border-bottom: 3px solid #263159;
+  border-bottom: 3px solid #fff;
 }
 
 #search {
