@@ -4,7 +4,8 @@ header {
 }
 
 ul {
-  margin: 0 auto !important;
+  margin-left: 1em;
+  margin-bottom: 0 !important;
 }
 
 ul > li {
@@ -16,4 +17,17 @@ ul > li {
 
 ul > li.selected {
   border-bottom: 3px solid #263159;
+}
+
+#search {
+  float: right;
+  position: absolute;
+  right: 1em;
+  margin-top: 0.5em;
+}
+
+#search input {
+  border-radius: 5px;
+  border: 1px solid #d6e4e5;
+  padding: 0.5em 1em;
 }

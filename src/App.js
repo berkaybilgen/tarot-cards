@@ -6,15 +6,23 @@ import CardList from "./component/CardList";
 
 function App() {
   const [selectedCat, setSelectedCat] = useState(0);
+  const [searchValue, setSearchValue] = useState("");
 
   const changeSelectedCat = (cat) => {
     setSelectedCat(cat);
   };
 
+  const changeSearchValue = (value) => {
+    setSearchValue(value);
+  };
+
   return (
     <div>
-      <Header changeSelectedCat={changeSelectedCat} />
-      <CardList selectedCat={selectedCat} />
+      <Header
+        changeSearchValue={changeSearchValue}
+        changeSelectedCat={changeSelectedCat}
+      />
+      <CardList searchValue={searchValue} selectedCat={selectedCat} />
     </div>
   );
 }

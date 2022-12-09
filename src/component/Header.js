@@ -9,6 +9,10 @@ const Header = (props) => {
     props.changeSelectedCat(Number(event.target.dataset.cat));
   };
 
+  const searchHandler = (event) => {
+    props.changeSearchValue(event.target.value);
+  };
+
   return (
     <header>
       <ul>
@@ -55,6 +59,13 @@ const Header = (props) => {
           Pentacles
         </li>
       </ul>
+      <div id="search">
+        <input
+          type="text"
+          onChange={searchHandler}
+          placeholder="Search cards"
+        />
+      </div>
     </header>
   );
 };

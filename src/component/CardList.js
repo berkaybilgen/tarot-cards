@@ -13,18 +13,31 @@ const CardList = (props) => {
       const filteredCards = data.filter(
         (item) => item.category == props.selectedCat
       );
+
       setCards(filteredCards);
     } else {
       setCards(data);
     }
   }, [props.selectedCat]);
 
+  useEffect(() => {
+    if (props.searchValue !== undefined && props.searchValue.length > 2) {
+      const filteredCards = data.filter((item) =>
+        item.name.toLowerCase().includes(props.searchValue)
+      );
+
+      setCards(filteredCards);
+    } else {
+      setCards(data);
+    }
+  }, [props.searchValue]);
+
   return (
     <div id="card-list">
       <Container>
         <Row>
           {cards.map((item) => (
-            <Col sm="6" md="3" lg="2">
+            <Col xs="6" md="3" lg="2">
               <Card key={item.cardNo} no={item.cardNo} name={item.name} />
             </Col>
           ))}
