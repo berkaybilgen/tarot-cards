@@ -8,16 +8,17 @@ import "bootstrap/dist/css/bootstrap.min.css";
 const CardList = (props) => {
   const [cards, setCards] = useState(data);
 
-  useEffect(() => {
-    if (props.selectedCat > 0) {
-      const filteredCards = data.filter(
-        (item) => item.category == props.selectedCat
-      );
-
+  const filterBySelectedCategory = (category) => {
+    if (category > 0) {
+      const filteredCards = data.filter((item) => item.category == category);
       setCards(filteredCards);
     } else {
       setCards(data);
     }
+  };
+
+  useEffect(() => {
+    filterBySelectedCategory(props.selectedCat);
   }, [props.selectedCat]);
 
   useEffect(() => {
@@ -28,7 +29,7 @@ const CardList = (props) => {
 
       setCards(filteredCards);
     } else {
-      setCards(data);
+      filterBySelectedCategory(props.selectedCat);
     }
   }, [props.searchValue]);
 
